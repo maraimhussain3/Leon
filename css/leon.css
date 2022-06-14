@@ -498,6 +498,9 @@ body {
     font-size: 18px;
 }
 
+.contact .social span {
+  font-size: 15px;
+}
 .contact .social i {
     color: var(--secondary-color);
     margin-left: 15px;
